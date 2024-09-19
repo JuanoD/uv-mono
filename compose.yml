@@ -1,0 +1,9 @@
+services:
+  path:
+    build:
+      context: path
+      dockerfile: app/Containerfile
+  workspace:
+    build:
+      context: workspace
+      dockerfile: app/Containerfile

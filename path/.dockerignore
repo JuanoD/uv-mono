@@ -1,0 +1,7 @@
+**/.venv
+**/Containerfile*
+**/compose*.yml
+**/*.egg-info
+**/build
+**/*.py[cod]
+__pycache__
